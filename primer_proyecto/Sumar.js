@@ -1,0 +1,7 @@
+
+const sumarDosMasDos = ()=>{
+    return 2 + 2;
+}
+
+exports.sumarDosMasDos = sumarDosMasDos;
+exports.sumar = sumarDosMasDos;
